@@ -2,16 +2,16 @@
 A list of terms that can entered into a Google search bar and return results that can provide useful information.
 
 
-http://www.acgov.org/searchhelp.htm is a good starting point.
+• http://www.acgov.org/searchhelp.htm is a good starting point.
 
-(-) subtracting a word from search.
-(-)"..." subtracting an exact phrase from search. 
-cache:(followed by target URL) ...[works only for Chrome].
+• (-) subtracting a word from search.
+• (-)"..." subtracting an exact phrase from search. 
+• cache:(followed by target URL) ...[works only for Chrome].
 
 
-importance of (...)
-ideal behavior of (...)
-ideal vs. realistic behavior of  (...)
+• importance of (...)
+• ideal behavior of (...)
+• ideal vs. realistic behavior of  (...)
 significance of (...)
 applications of (...)
 physical significance of (...)
