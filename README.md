@@ -1,5 +1,5 @@
 # Effective-Google-Search-Tips (Keywords)
-A list of terms that can be entered into a Google search bar and return results that can provide useful information in various formats. (I compiled this list over a number of years through trial and error).
+A list of terms that can be entered into a Google search bar and return results that provide useful information in various formats. (I compiled this list over a number of years through trial and error).
 
 
 http://www.acgov.org/searchhelp.htm is a good starting point.
