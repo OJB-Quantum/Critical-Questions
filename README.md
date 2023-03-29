@@ -6,9 +6,9 @@ http://www.acgov.org/searchhelp.htm is a good starting point.
 
 
 Note: be sure to remove parenthesis. 
-.
-.
-.
+
+
+
 (-) subtracting a word from search.
 
 (-)"..." subtracting an exact phrase from search. 
