@@ -20,42 +20,42 @@ cache:(followed by target URL) ...[works only for Chrome].
 _________________________________________________________________________________________________________________________________________________________________
 
 
-importance of (...)
+• importance of (...)
 
-ideal behavior of (...)
+• ideal behavior of (...)
 
-ideal vs. realistic behavior of  (...)
+• ideal vs. realistic behavior of  (...)
 
-significance of (...)
+• significance of (...)
 
-applications of (...)
+• applications of (...)
 
-physical significance of (...)
+• physical significance of (...)
 
-geometry for the measurement of (...)
+• geometry for the measurement of (...)
 
-typical characteristics of (...)
+• typical characteristics of (...)
 
-with and without (...)
+• with and without (...)
 
-what does (..) represent?
+• what does (..) represent?
 
-what is the concept of (...)
+• what is the concept of (...)
 
-taxonomy of (...)
+• taxonomy of (...)
 
-table of (...)
+• table of (...)
 
-(...) table
+• (...) table
 
-difference between (...)
+• difference between (...)
 
-the analog of (...)
+• the analog of (...)
 
-physical meaning of (...)
+• physical meaning of (...)
 
-(...) symbolism
+• (...) symbolism
 
-symbolism of (...)
+• symbolism of (...)
 
-iconographic meaning of (...)
+• iconographic meaning of (...)
