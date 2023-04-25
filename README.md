@@ -61,3 +61,9 @@ ________________________________________________________________________________
 • iconographic meaning of (...)
 
 • why is (...) important?
+
+• generic model of a (...)
+
+• generic model representation of (...)
+
+• schematic representation of (...)
