@@ -67,3 +67,9 @@ ________________________________________________________________________________
 • generic model representation of (...)
 
 • schematic representation of (...)
+
+• Linear model of (...)
+
+• (...) is related to?
+
+• Floor plan of (...)
