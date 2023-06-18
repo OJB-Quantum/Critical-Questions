@@ -74,6 +74,6 @@ ________________________________________________________________________________
 
 • Floor plan of (...)
 
-- Drawbacks of (...)
+• Drawbacks of (...)
 
-- Limitations of (...)
+• Limitations of (...)
