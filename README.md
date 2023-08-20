@@ -1,4 +1,7 @@
 # Effective-Google-Search-Tips (Keywords)
+
+[![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0)
+
 A list of terms that can be entered into a Google search bar (https://www.google.com/search?q=) and return results that provide useful information in various formats. (I compiled this list over a number of years through trial and error).
 
 
@@ -68,14 +71,24 @@ ________________________________________________________________________________
 
 • schematic representation of (...)
 
-• Linear model of (...)
+• linear model of (...)
 
 • (...) is related to?
 
-• Floor plan of (...)
+• floor plan of (...)
 
-• Drawbacks of (...)
+• drawbacks of (...)
 
-• Limitations of (...)
+• limitations of (...)
 
-• Trajectory of (...)
+• trajectory of (...)
+
+• motivation for (...)
+
+• open-source alternatives for (...)
+
+• roadmap of (...)
+
+• summary of (...)
+
+
