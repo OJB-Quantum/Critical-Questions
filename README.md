@@ -87,6 +87,8 @@ ________________________________________________________________________________
 
 • open-source alternatives for (...)
 
+• visual guide to (...)
+
 • roadmap of (...)
 
 • summary of (...)
