@@ -94,3 +94,5 @@ ________________________________________________________________________________
 • summary of (...)
 
 • meaning and significance of (...)
+
+• meaning, significance, and limitations of (...)
