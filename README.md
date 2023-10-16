@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0)
 
-A list of terms that can be entered into a Google search bar (https://www.google.com/search?q=) and return results that provide useful information in various formats. (I compiled this list over a number of years through trial and error).
+A list of terms that can be entered into a Google search bar (https://www.google.com/search?q=) and return results that provide useful and critical information in various formats. (I compiled this list over a number of years through trial and error).
 
 
 http://www.acgov.org/searchhelp.htm is a good starting point, but also not the end. Therefore, the list I created below can be viewed supplementary.
