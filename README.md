@@ -96,3 +96,5 @@ ________________________________________________________________________________
 • meaning and significance of (...)
 
 • meaning, significance, and limitations of (...)
+
+• Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output.
