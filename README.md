@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 • with and without (...)
 
-• what does (..) represent?
+• what does (...) represent?
 
 • what is the concept of (...)
 
