@@ -14,9 +14,11 @@ ________________________________________________________________________________
 
 
 
-(-) subtracting a word from search.
+(-) : subtracts a word from search to narrow down a search.
 
-(-)"..." subtracting an exact phrase from search. 
+(-)"..." : Subtracts an exact phrase from search. 
+
+"" : Use quotation marks to group words together.
 
 cache:(followed by target URL) ...[works only for Chrome].
 
