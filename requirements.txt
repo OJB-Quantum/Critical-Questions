@@ -2,3 +2,6 @@
 
 requests
 beautifulsoup4
+transformers
+tabulate
+pyshorters
