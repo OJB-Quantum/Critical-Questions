@@ -1,6 +1,6 @@
 # Effective-Google-Search-Tips (Keywords)
 
-[![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0)
+[![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Effective-Google-Search-Tips/main)
 
 A list of terms that can be entered into a Google search bar (https://www.google.com/search?q=) and return results that provide useful and critical information in various formats. (I compiled this list over a number of years through trial and error).
 
