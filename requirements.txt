@@ -1,1 +1,4 @@
+# The sequence of steps found below should be followed in relatively chronological order and can be used as a chronological checklist
+
+requests
 beautifulsoup4
