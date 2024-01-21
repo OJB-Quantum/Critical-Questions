@@ -25,83 +25,85 @@ cache:(followed by target URL) ...[works only for Chrome].
 _________________________________________________________________________________________________________________________________________________________________
 
 
-• importance of (...)
+• Importance of (...)
 
-• ideal behavior of (...)
+• Ideal behavior of (...)
 
-• ideal vs. realistic behavior of  (...)
+• Ideal vs. realistic behavior of  (...)
 
-• significance of (...)
+• Significance of (...)
 
-• applications of (...)
+• Applications of (...)
 
-• physical significance of (...)
+• Physical significance of (...)
 
-• geometry for the measurement of (...)
+• Mathematical significance of (...)
 
-• typical characteristics of (...)
+• Geometry for the measurement of (...)
 
-• with and without (...)
+• Typical characteristics of (...)
 
-• what does (...) represent?
+• With and without (...)
 
-• what is the concept of (...)
+• What does (...) represent?
 
-• taxonomy of (...)
+• What is the concept of (...)
 
-• table of (...)
+• Taxonomy of (...)
+
+• Table of (...)
 
 • (...) table
 
-• difference between (...)
+• Difference between (...)
 
-• the analog of (...)
+• The analog of (...)
 
-• physical meaning of (...)
+• Physical meaning of (...)
 
 • (...) symbolism
 
-• symbolism of (...)
+• Symbolism of (...)
 
-• iconographic meaning of (...)
+• Iconographic meaning of (...)
 
-• why is (...) important?
+• Why is (...) important?
 
-• generic model of a (...)
+• Generic model of a (...)
 
-• generic model representation of (...)
+• Generic model representation of (...)
 
-• schematic representation of (...)
+• Schematic representation of (...)
 
-• linear model of (...)
+• Linear model of (...)
 
 • (...) is related to?
 
-• floor plan of (...)
+• Floor plan of (...)
 
-• drawbacks of (...)
+• Drawbacks of (...)
 
-• limitations of (...)
+• Limitations of (...)
 
-• advantages of (...)
+• Advantages of (...)
 
-• trajectory of (...)
+• Trajectory of (...)
 
-• motivation for (...)
+• Motivation for (...)
 
-• open-source alternatives for (...)
+• Open-source alternatives for (...)
 
-• visual guide to (...)
+• Visual guide to (...)
 
-• audio guide to (...)
+• Audio guide to (...)
 
-• roadmap of (...)
+• Roadmap of (...)
 
-• summary of (...)
+• Summary of (...)
 
-• meaning and significance of (...)
+• Meaning and significance of (...)
 
-• meaning, significance, and limitations of (...)
+• Meaning, significance, and limitations of (...)
 
 • Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output.
 
@@ -110,3 +112,5 @@ ________________________________________________________________________________
 • Find me a repository or archive on (...)
 
 • Which Python library can be used to generate (...)?
+
+• Animation of (...)
