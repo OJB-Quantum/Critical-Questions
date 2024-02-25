@@ -24,101 +24,56 @@ cache:(followed by target URL) ...[works only for Chrome].
 
 _________________________________________________________________________________________________________________________________________________________________
 
-
-• Importance of (...)
-
-• Ideal behavior of (...)
-
-• Ideal vs. realistic behavior of  (...)
-
-• Significance of (...)
-
-• Applications of (...)
-
-• Physical significance of (...)
-
-• Mathematical significance of (...)
-
-• Geometry for the measurement of (...)
-
-• Typical characteristics of (...)
-
-• With and without (...)
-
-• What does (...) represent?
-
-• What is the concept of (...)
-
-• Taxonomy of (...)
-
-• Table of (...)
-
-• (...) table
-
-• Difference between (...)
-
-• The analog of (...)
-
-• Physical meaning of (...)
-
-• (...) symbolism
-
-• Symbolism of (...)
-
-• Iconographic meaning of (...)
-
-• Why is (...) important?
-
-• Generic model of a (...)
-
-• Generic model representation of (...)
-
-• Schematic representation of (...)
-
-• Linear model of (...)
-
-• (...) is related to?
-
-• Floor plan of (...)
-
-• Drawbacks of (...)
-
-• Limitations of (...)
-
-• Advantages of (...)
-
-• Trajectory of (...)
-
-• Motivation for (...)
-
-• Open-source alternatives for (...)
-
-• Visual guide to (...)
-
-• Audio guide to (...)
-
-• Roadmap of (...)
-
-• Summary of (...)
-
-• Meaning and significance of (...)
-
-• Meaning, significance, and limitations of (...)
-
-• Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output.
-
-• Find me a repository on (...)
-
-• Find me a repository or archive on (...)
-
-• Which Python library can be used to generate (...)?
-
-• Animation of (...)
-
-• (...) animations
-
-• (...) groups
-
-• Groups in (...)
-
-• Categories of (...)
+|-----------------------|
+| • Importance of (...) |
+| • Ideal behavior of (...) |
+| • Applications of (...) |
+| • Ideal vs. realistic behavior of  (...) |
+| • Applications of (...) |
+| • Significance of (...)
+| • Applications of (...) |
+| • Physical significance of (...) |
+| • Mathematical significance of (...) |
+| • Geometry for the measurement of (...) |
+| • Typical characteristics of (...) |
+| • With and without (...) |
+| • What does (...) represent? |
+| • What is the concept of (...) |
+| • Taxonomy of (...) |
+| • Table of (...) |
+| • (...) table |
+| • Difference between (...) |
+| • The analog of (...) |
+| • Physical meaning of (...) |
+| • (...) symbolism |
+| • Symbolism of (...) |
+| • Iconographic meaning of (...) |
+| • Why is (...) important? |
+| • Generic model of a (...) |
+| • Generic model representation of (...) |
+| • Schematic representation of (...) |
+| • Linear model of (...) |
+| • (...) is related to? |
+| • Floor plan of (...) |
+| • Drawbacks of (...) |
+| • Limitations of (...) |
+| • Advantages of (...) |
+| • Trajectory of (...) |
+| • Motivation for (...) |
+| • Open-source alternatives for (...) |
+| • Visual guide to (...) |
+| • Audio guide to (...) |
+| • Roadmap of (...) |
+| • Summary of (...) |
+| • Meaning and significance of (...) |
+| • Meaning, significance, and limitations of (...) |
+| • Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output. |
+| • Find me a repository on (...) |
+| • Find me a repository or archive on (...) |
+| • Which Python library can be used to generate (...)? |
+| • Animation of (...) |
+| • (...) animations |
+| • (...) groups |
+| • Groups in (...) |
+| • Categories of (...) |
+| • Review on (...) materials |
