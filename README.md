@@ -15,9 +15,10 @@ ________________________________________________________________________________
 
 | |
 |-----------------------|
-| (-) : subtracts a word from search to narrow down a search. |
+| (-) : Subtracts a word from search to narrow down a search. |
 | (-)"..." : Subtracts an exact phrase from search. |
 | "" : Use quotation marks to group words together. |
+| OR : Allows simultaneous search of multiple terms. |
 | cache:(followed by target URL) ...[works only for Chrome]. |
 
 _________________________________________________________________________________________________________________________________________________________________
