@@ -77,4 +77,4 @@ ________________________________________________________________________________
 | • Review on (...) materials |
 | • Structural linguistics of (...) |
 | • What are the constraints for (...)? |
-| • A primer on (...)  |
+| • Find me a primer on (...)  |
