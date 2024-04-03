@@ -66,8 +66,8 @@ ________________________________________________________________________________
 | • Meaning and significance of (...) |
 | • Meaning, significance, and limitations of (...) |
 | • Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output. |
-| • Find me a repository on (...) |
-| • Find me a repository or archive on (...) |
+| • A repository on (...) |
+| • A repository or archive on (...) |
 | • Which Python library can be used to generate (...)? |
 | • Animation of (...) |
 | • (...) animations |
@@ -77,4 +77,4 @@ ________________________________________________________________________________
 | • Review on (...) materials |
 | • Structural linguistics of (...) |
 | • What are the constraints for (...)? |
-| • Find me a primer on (...)  |
+| • A primer on (...)  |
