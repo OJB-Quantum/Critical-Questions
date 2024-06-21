@@ -1,11 +1,11 @@
-# Effective-Google-Search-Tips (Keywords)
+# Critical Questions (Keywords)
 
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Effective-Google-Search-Tips/main)
 
-A list of terms that can be entered into a search bar on a browser (https://www.google.com/search?q=) and return results that provide useful and critical information in various formats. (I compiled this list over a number of years through trial and error). It is likely that this can be used to inspire a way to ask critical questions in general as well.
+A list of terms that can be asked or entered into a search bar on a browser (https://www.google.com/search?q=) and return useful and critical information in various formats. (I compiled this list over a number of years through trial and error). It is likely that this can be used to inspire a way to ask critical questions in general as well.
 
 
-http://www.acgov.org/searchhelp.htm is a good starting point, but also not the end. Therefore, the list I created below can be viewed supplementary.
+http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. Therefore, the list I created below can be viewed as supplementary.
 
 _________________________________________________________________________________________________________________________________________________________________
 
