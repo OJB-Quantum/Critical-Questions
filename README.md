@@ -82,3 +82,8 @@ ________________________________________________________________________________
 | • A primer on (...)  |
 | • What does (...) sound like when attentuated to the range of human hearing? |
 | • (...) is or may be difficult, unless what? |
+| • Monte Carlo simulation of (...) |
+| • GIF animation of (...) |
+| • Monte Carlo simulation of (...) |
+| • Alternative spellings of (...) |
+| • (...) on arXiv |
