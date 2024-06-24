@@ -53,6 +53,7 @@ ________________________________________________________________________________
 | • Big differences in (__) |
 | • Big arguments for (__) |
 | • Difference between similar terms in (__) |
+| • Mapping and sampling of (__) |
 | • Sampling in (__) |
 | • Approximations and equivalencies in (__) |
 | • Does or do (__) adhere to certain laws? |
