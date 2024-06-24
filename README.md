@@ -28,7 +28,7 @@ ________________________________________________________________________________
 | • Importance of (...) |
 | • Ideal behavior of (...) |
 | • Applications of (...) |
-| • Ideal vs. realistic behavior of  (...) |
+| • Ideal vs. realistic behavior of (...) |
 | • Applications of (...) |
 | • Significance of (...)
 | • Applications of (...) |
@@ -42,8 +42,9 @@ ________________________________________________________________________________
 | • Taxonomy of (...) |
 | • Table of (...) |
 | • (...) table |
-| • Difference between (...) |
+| • Difference between similar terms in (...) |
 | • The analog of (...) |
+| • Metrology of (...) |
 | • Physical meaning of (...) |
 | • (...) symbolism |
 | • Symbolism of (...) |
@@ -90,3 +91,4 @@ ________________________________________________________________________________
 | • Abstractions of (...) |
 | • How abstract is (...)? |
 | • Levels of abstraction of the term (...) and its subfields |
+| • Comparison between (...) and common household items |
