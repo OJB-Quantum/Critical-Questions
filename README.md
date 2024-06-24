@@ -51,7 +51,16 @@ ________________________________________________________________________________
 | • (__) table |
 | • (__) then and now |
 | • Big differences in (__) |
+| • Big arguments for (__) |
 | • Difference between similar terms in (__) |
+| • Sampling in (__) |
+| • Approximations and equivalencies in (__) |
+| • Does or do (__) adhere to certain laws? |
+| • Important pioneers in (__) |
+| • Bread and butter of (__) |
+| • Initial vs advanced questions in (__) |
+| • Much less information is, however, available on what in (__) |
+| • Deductive and inductive approaches in (__) |
 | • The analog of (__) |
 | • Metrology of (__) |
 | • Physical meaning of (__) |
@@ -105,14 +114,5 @@ ________________________________________________________________________________
 | • Comparison between (__) and common household or garage items |
 | • Comparison between (__) and common household or toolshed items |
 | • Comparison between (__) and common household or toolshed items in different eras |
-| • Sampling in (__) |
-| • Approximations and equivalencies in (__) |
-| • Big arguments for (__) |
-| • Does or do (__) adhere to certain laws? |
-| • Important pioneers in (__) |
-| • Bread and butter of (__) |
-| • Initial vs advanced questions in (__) |
-| • Much less information is, however, available on what in (__) |
-| • Deductive and inductive approaches in (__) |
 | • Where does (__) borrow terms from if any? |
 | • Which topic borrows terms from (__) |
