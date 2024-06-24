@@ -4,8 +4,6 @@
 
 A list of terms that can generally be asked or entered into a browser search bar and return useful and critical information in various formats. (I compiled this list over a number of years through trial and error and thinking of ways to identify loopholes in reality, to some extent). This can be used to inspire a way to ask critical questions in general as well, towards the goal of comprehensive understanding and idea generation. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
-"While deductive reasoning is my seasoning, it is merely an ingredient" - O.J.B.
-
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. Therefore, the list I created below can be viewed as supplementary.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 
@@ -17,8 +15,9 @@ ________________________________________________________________________________
 
 | |
 |-----------------------|
+| (__) : Blank term, enter desired keyword |
 | (-) : Subtracts a word from search to narrow down a search. |
-| (-)"..." : Subtracts an exact phrase from search. |
+| (-)"(__)" : Subtracts an exact phrase from search. |
 | "" : Use quotation marks to group words together. |
 | OR : Allows simultaneous search of multiple terms. |
 | cache:(followed by target URL) ...[works only for Chrome]. |
@@ -26,90 +25,91 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________
 | |
 |-----------------------|
-| • Importance of (...) |
-| • Ideal behavior of (...) |
-| • Primary components of (...) |
-| • Primary ingredients of (...) |
-| • Subsystems of (...) |
-| • Loopholes in (...) |
-| • Applications of (...) |
-| • Ideal vs. realistic behavior of (...) |
-| • Significance of (...)
-| • Sustainable alternatives for (...) |
-| • Sustainable ideas in (...) |
-| • Sustainability approaches in (...) |
-| • Heuristic approaches in (...) |
-| • Physical significance of (...) |
-| • Mathematical significance of (...) |
-| • Geometry for the measurement of (...) |
-| • Typical characteristics of (...) |
-| • With and without (...) |
-| • What does (...) represent? |
-| • What is the concept of (...) |
-| • Taxonomy of (...) |
-| • Table of (...) |
-| • (...) table |
-| • (...) then and now |
-| • Difference between similar terms in (...) |
-| • The analog of (...) |
-| • Metrology of (...) |
-| • Physical meaning of (...) |
-| • (...) symbolism |
-| • Symbolism of (...) |
-| • Iconographic meaning of (...) |
-| • Why is (...) important? |
-| • Generic model of a (...) |
-| • Generic model representation of (...) |
-| • Schematic representation of (...) |
-| • Linear model of (...) |
-| • (...) is related to? |
-| • Floor plan of (...) |
-| • Drawbacks of (...) |
-| • Limitations of (...) |
-| • Advantages of (...) |
-| • Trajectory of (...) |
-| • Motivation for (...) |
-| • Open-source alternatives for (...) |
-| • Visual guide to (...) |
-| • Audio guide to (...) |
-| • Interactive guide to (...) |
-| • Roadmap of (...) |
-| • Summary of (...) |
-| • Meaning and significance of (...) |
-| • Meaning, significance, and limitations of (...) |
-| • Please provide some critical equations and formulas for understanding (...) and demonstrate an example with Python code. Plot the output. |
-| • A repository on (...) |
-| • A repository or archive on (...) |
-| • Which Python library can be used to generate (...)? |
-| • Animation of (...) |
-| • (...) animations |
-| • (...) groups |
-| • Groups in (...) |
-| • Categories of (...) |
-| • Review on (...) materials |
-| • Structural linguistics of (...) |
-| • What are the constraints for (...)? |
-| • A primer on (...)  |
-| • What does (...) sound like when attentuated to the range of human hearing? |
-| • (...) is or may be difficult, unless what? |
-| • Monte Carlo simulation of (...) |
-| • GIF animation of (...) |
-| • Alternative spellings of (...) |
-| • (...) on arXiv |
-| • Abstractions of (...) |
-| • How abstract is (...)? |
-| • Levels of abstraction of the term (...) and its subfields |
-| • Comparison between (...) and common household items |
-| • Comparison between (...) and common household or garage items |
-| • Comparison between (...) and common household or toolshed items |
-| • Comparison between (...) and common household or toolshed items in different eras |
-| • Sampling in (...) |
-| • Big arguments for (...) |
-| • Does or do (...) adhere to certain laws? |
-| • Important pioneers in (...) |
-| • Bread and butter of (...) |
-| • Initial vs advanced questions in (...) |
-| • Much less information is, however, available on what in (...) |
-| • Deductive and inductive approaches in (...) |
-| • Where does (...) borrow terms from if any? |
-| • Which topic borrows terms from (...) |
+| • Importance of (__) |
+| • Ideal behavior of (__) |
+| • Primary components of (__) |
+| • Primary ingredients of (__) |
+| • Subsystems of (__) |
+| • Compact versions of (__) |
+| • Loopholes in (__) |
+| • Applications of (__) |
+| • Ideal vs. realistic behavior of (__) |
+| • Significance of (__)
+| • Sustainable alternatives for (__) |
+| • Sustainable ideas in (__) |
+| • Sustainability approaches in (__) |
+| • Heuristic approaches in (__) |
+| • Physical significance of (__) |
+| • Mathematical significance of (__) |
+| • Geometry for the measurement of (__) |
+| • Typical characteristics of (__) |
+| • With and without (__) |
+| • What does (__) represent? |
+| • What is the concept of (__) |
+| • Taxonomy of (__) |
+| • Table of (__) |
+| • (__) table |
+| • (__) then and now |
+| • Difference between similar terms in (__) |
+| • The analog of (__) |
+| • Metrology of (__) |
+| • Physical meaning of (__) |
+| • (__) symbolism |
+| • Symbolism of (__) |
+| • Iconographic meaning of (__) |
+| • Why is (__) important? |
+| • Generic model of a (__) |
+| • Generic model representation of (__) |
+| • Schematic representation of (__) |
+| • Linear model of (__) |
+| • (__) is related to? |
+| • Floor plan of (__) |
+| • Drawbacks of (__) |
+| • Limitations of (__) |
+| • Advantages of (__) |
+| • Trajectory of (__) |
+| • Motivation for (__) |
+| • Open-source alternatives for (__) |
+| • Visual guide to (__) |
+| • Audio guide to (__) |
+| • Interactive guide to (__) |
+| • Roadmap of (__) |
+| • Summary of (__) |
+| • Meaning and significance of (__) |
+| • Meaning, significance, and limitations of (__) |
+| • Please provide some critical equations and formulas for understanding (__) and demonstrate an example with Python code. Plot the output. |
+| • A repository on (__) |
+| • A repository or archive on (__) |
+| • Which Python library can be used to generate (__)? |
+| • Animation of (__) |
+| • (__) animations |
+| • (__) groups |
+| • Groups in (__) |
+| • Categories of (__) |
+| • Review on (__) materials |
+| • Structural linguistics of (__) |
+| • What are the constraints for (__)? |
+| • A primer on (__)  |
+| • What does (__) sound like when attentuated to the range of human hearing? |
+| • (__) is or may be difficult, unless what? |
+| • Monte Carlo simulation of (__) |
+| • GIF animation of (__) |
+| • Alternative spellings of (__) |
+| • (__) on arXiv |
+| • Abstractions of (__) |
+| • How abstract is (__)? |
+| • Levels of abstraction of the term (__) and its subfields |
+| • Comparison between (__) and common household items |
+| • Comparison between (__) and common household or garage items |
+| • Comparison between (__) and common household or toolshed items |
+| • Comparison between (__) and common household or toolshed items in different eras |
+| • Sampling in (__) |
+| • Big arguments for (__) |
+| • Does or do (__) adhere to certain laws? |
+| • Important pioneers in (__) |
+| • Bread and butter of (__) |
+| • Initial vs advanced questions in (__) |
+| • Much less information is, however, available on what in (__) |
+| • Deductive and inductive approaches in (__) |
+| • Where does (__) borrow terms from if any? |
+| • Which topic borrows terms from (__) |
