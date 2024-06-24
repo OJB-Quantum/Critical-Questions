@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 | |
 |-----------------------|
-| (__) : Blank term, enter desired keyword |
+| (__) : Blank term, enter desired keyword. |
 | (-) : Subtracts a word from search to narrow down a search. |
 | (-)"(__)" : Subtracts an exact phrase from search. |
 | "" : Use quotation marks to group words together. |
