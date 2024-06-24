@@ -93,3 +93,4 @@ ________________________________________________________________________________
 | • Levels of abstraction of the term (...) and its subfields |
 | • Comparison between (...) and common household items |
 | • Comparison between (...) and common household or garage items |
+| • Comparison between (...) and common household or toolshed items |
