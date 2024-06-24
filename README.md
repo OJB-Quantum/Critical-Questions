@@ -87,3 +87,6 @@ ________________________________________________________________________________
 | • Monte Carlo simulation of (...) |
 | • Alternative spellings of (...) |
 | • (...) on arXiv |
+| • Abstractions of (...) |
+| • How abstract is (...)? |
+| • Level of abstraction of (...)? |
