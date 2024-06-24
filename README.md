@@ -89,4 +89,4 @@ ________________________________________________________________________________
 | • (...) on arXiv |
 | • Abstractions of (...) |
 | • How abstract is (...)? |
-| • Levels of abstraction of (...) and its subfields |
+| • Levels of abstraction of the term (...) and its subfields |
