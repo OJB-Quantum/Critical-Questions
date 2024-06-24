@@ -32,7 +32,7 @@ ________________________________________________________________________________
 | • Ideal vs. realistic behavior of (...) |
 | • Significance of (...)
 | • Sustainable alternatives for (...) |
-
+| • Sustainable ideas in (...) |
 | • Physical significance of (...) |
 | • Mathematical significance of (...) |
 | • Geometry for the measurement of (...) |
