@@ -99,3 +99,6 @@ ________________________________________________________________________________
 | • Big arguments for (...) |
 | • Does or do (...) adhere to certain laws? |
 | • Important pioneers in (...) |
+| • Bread and butter of (...) |
+| • Initial vs advanced questions in (...) |
+| • Heuristic approaches in (...) |
