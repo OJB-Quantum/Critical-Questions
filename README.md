@@ -4,6 +4,7 @@
 
 A list of terms that can generally be asked or entered into a browser search bar and return useful and critical information in various formats. (I compiled this list over a number of years through trial and error and thinking of ways to identify loopholes in reality, to some extent). This can be used to inspire a way to ask critical questions in general as well, towards the goal of comprehensive understanding and idea generation. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
+"While deductive reasoning is my seasoning, it is merely an ingredient" - O.J.B.
 
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. Therefore, the list I created below can be viewed as supplementary.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
@@ -27,6 +28,9 @@ ________________________________________________________________________________
 |-----------------------|
 | • Importance of (...) |
 | • Ideal behavior of (...) |
+| • Primary components of (...) |
+| • Primary ingredients of (...) |
+| • Subsystems of (...) |
 | • Loopholes in (...) |
 | • Applications of (...) |
 | • Ideal vs. realistic behavior of (...) |
@@ -106,3 +110,6 @@ ________________________________________________________________________________
 | • Bread and butter of (...) |
 | • Initial vs advanced questions in (...) |
 | • Much less information is, however, available on what in (...) |
+| • Deductive and inductive approaches in (...) |
+| • Where does (...) borrow terms from if any? |
+| • Which topic borrows terms from (...) |
