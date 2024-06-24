@@ -65,6 +65,8 @@ ________________________________________________________________________________
 | • Open-source alternatives for (...) |
 | • Visual guide to (...) |
 | • Audio guide to (...) |
+| • Heuristic approaches in (...) |
+| • Interactive guide to (...) |
 | • Roadmap of (...) |
 | • Summary of (...) |
 | • Meaning and significance of (...) |
@@ -101,5 +103,3 @@ ________________________________________________________________________________
 | • Important pioneers in (...) |
 | • Bread and butter of (...) |
 | • Initial vs advanced questions in (...) |
-| • Heuristic approaches in (...) |
-| • Interactive guide to (...) |
