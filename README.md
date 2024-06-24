@@ -6,6 +6,7 @@ A list of terms that can generally be asked or entered into a browser search bar
 
 
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. Therefore, the list I created below can be viewed as supplementary.
+Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 
 _________________________________________________________________________________________________________________________________________________________________
 
