@@ -31,7 +31,8 @@ ________________________________________________________________________________
 | • Applications of (...) |
 | • Ideal vs. realistic behavior of (...) |
 | • Significance of (...)
-| • Applications of (...) |
+| • Sustainable alternatives for (...) |
+
 | • Physical significance of (...) |
 | • Mathematical significance of (...) |
 | • Geometry for the measurement of (...) |
