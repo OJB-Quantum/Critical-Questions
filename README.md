@@ -84,6 +84,7 @@ ________________________________________________________________________________
 | • Which Python library can be used to generate (__)? |
 | • Animation of (__) |
 | • (__) animations |
+| • GIF animation of (__) |
 | • (__) groups |
 | • Groups in (__) |
 | • Categories of (__) |
@@ -95,7 +96,6 @@ ________________________________________________________________________________
 | • What does (__) sound like when attentuated to the range of human hearing? |
 | • (__) is or may be difficult, unless what? |
 | • Monte Carlo simulation of (__) |
-| • GIF animation of (__) |
 | • Alternative spellings of (__) |
 | • (__) on arXiv |
 | • Abstractions of (__) |
