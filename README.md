@@ -34,6 +34,7 @@ ________________________________________________________________________________
 | • Sustainable alternatives for (...) |
 | • Sustainable ideas in (...) |
 | • Sustainability approaches in (...) |
+| • Heuristic approaches in (...) |
 | • Physical significance of (...) |
 | • Mathematical significance of (...) |
 | • Geometry for the measurement of (...) |
@@ -67,7 +68,6 @@ ________________________________________________________________________________
 | • Open-source alternatives for (...) |
 | • Visual guide to (...) |
 | • Audio guide to (...) |
-| • Heuristic approaches in (...) |
 | • Interactive guide to (...) |
 | • Roadmap of (...) |
 | • Summary of (...) |
