@@ -30,7 +30,6 @@ ________________________________________________________________________________
 | • Loopholes in (...) |
 | • Applications of (...) |
 | • Ideal vs. realistic behavior of (...) |
-| • Applications of (...) |
 | • Significance of (...)
 | • Applications of (...) |
 | • Physical significance of (...) |
