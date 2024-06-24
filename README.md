@@ -4,7 +4,7 @@
 
 A list of terms that can generally be asked or entered into a browser search bar and return useful and critical information in various formats. (I compiled this list over a number of years through trial and error and thinking of ways to identify loopholes in reality, to some extent). This can be used to inspire a way to ask critical questions in general as well, towards the goal of comprehensive understanding and idea/context generation. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
-http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. Therefore, the list I created below can be viewed as supplementary.
+http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The list I created below can be viewed as supplementary.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 
 _________________________________________________________________________________________________________________________________________________________________
