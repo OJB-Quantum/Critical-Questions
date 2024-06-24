@@ -38,7 +38,6 @@ ________________________________________________________________________________
 | • Sustainable alternatives for (__) |
 | • Sustainable ideas in (__) |
 | • Sustainability approaches in (__) |
-| • Heuristic approaches in (__) |
 | • Physical significance of (__) |
 | • Mathematical significance of (__) |
 | • Geometry for the measurement of (__) |
@@ -62,6 +61,10 @@ ________________________________________________________________________________
 | • Initial vs advanced questions in (__) |
 | • Much less information is, however, available on what in (__) |
 | • Deductive and inductive approaches in (__) |
+| • Iterative approaches in (__) |
+| • Leapfrogging approaches in (__) |
+| • Heuristic approaches in (__) |
+| • Analytical approaches in (__) |
 | • The analog of (__) |
 | • Metrology of (__) |
 | • Physical meaning of (__) |
@@ -118,3 +121,4 @@ ________________________________________________________________________________
 | • Comparison between (__) and common household or toolshed items in different eras |
 | • Where does (__) borrow terms from if any? |
 | • Which topic borrows terms from (__) |
+| • Thought processes in (__) |
