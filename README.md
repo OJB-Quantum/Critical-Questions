@@ -130,3 +130,4 @@ ________________________________________________________________________________
 | • Where does (__) borrow terms from if any? |
 | • Which topic borrows terms from (__) |
 | • Thought processes in (__) |
+| • Fractl mechanics of (__) |
