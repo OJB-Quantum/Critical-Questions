@@ -42,6 +42,7 @@ ________________________________________________________________________________
 | • Sustainability approaches in (__) |
 | • Physical significance of (__) |
 | • Mathematical significance of (__) |
+| • Morphology of (__) |
 | • Geometry for the measurement of (__) |
 | • Typical characteristics of (__) |
 | • With and without (__) |
@@ -69,12 +70,14 @@ ________________________________________________________________________________
 | • Analytical approaches in (__) |
 | • The analog of (__) |
 | • Metrology of (__) |
+| • Parameterization of (__) |
 | • Physical meaning of (__) |
 | • Physical response of (__) |
 | • (__) symbolism |
 | • Symbolism of (__) |
 | • Iconographic meaning of (__) |
 | • Why is (__) important? |
+| • Working model of (__) |
 | • Generic model of a (__) |
 | • Generic model representation of (__) |
 | • Schematic representation of (__) |
