@@ -34,6 +34,7 @@ ________________________________________________________________________________
 | • Compact versions of (__) |
 | • Loopholes in (__) |
 | • Applications of (__) |
+| • Ethics of (__) |
 | • Ideal vs. realistic behavior of (__) |
 | • Significance of (__)
 | • Sustainable alternatives for (__) |
