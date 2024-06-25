@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Effective-Google-Search-Tips/main)
 
-A table of terms that can generally be asked face-to-face or entered into a browser search bar to return useful and critical information in various formats. (I developed this table from a list compiled over a number of years through trial and error and developing ways to help identify loopholes in physics and reality).
+A table of terms that can generally be asked face-to-face or entered into a browser search bar to return useful and critical information in various formats. (I developed this table from a list compiled over a number of years, developing ways to help identify loopholes in physics and reality through questions).
 
 This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 _________________________________________________________________________________________________________________________________________________________________
