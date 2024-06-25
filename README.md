@@ -4,7 +4,7 @@
 
 A table of terms that can generally be asked face-to-face or entered into a browser search bar to return useful and critical information in various formats. (I compiled this table from a list developed over a number of years through trial and error and thinking of ways to identify loopholes in reality, to some extent).
 
-This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/context generation for enhanced learning. By finding better answers to more of each question or query from the table below, more context can be gained about a topic. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
+This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 _________________________________________________________________________________________________________________________________________________________________
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table I created below can be viewed as supplementary.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
