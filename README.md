@@ -6,7 +6,7 @@ A table of terms that can generally be asked face-to-face or entered into a brow
 
 This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic. Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 _________________________________________________________________________________________________________________________________________________________________
-http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table I created below can be viewed as supplementary.
+http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 _________________________________________________________________________________________________________________________________________________________________
 
