@@ -133,4 +133,5 @@ ________________________________________________________________________________
 | • Fractal mechanics of (__) |
 | • On the topic of (__), how much is too much? |
 | • What is the memory, energy, or time bandwidth of (__)? |
-|  |
+| • Passive vs. active designs of (__) |
+| • Passive vs. active implementations of (__) |
