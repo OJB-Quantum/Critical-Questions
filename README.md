@@ -30,6 +30,7 @@ ________________________________________________________________________________
 |-----------------------|
 | • Importance of (__) |
 | • Ideal behavior of (__) |
+| • A primer on (__)  |
 | • Primary components of (__) |
 | • Primary ingredients of (__) |
 | • Subsystems of (__) |
@@ -114,7 +115,6 @@ ________________________________________________________________________________
 | • Structural linguistics of (__) |
 | • Language breakdown of (__) |
 | • What are the constraints for (__)? |
-| • A primer on (__)  |
 | • What does (__) sound like when attentuated to the range of human hearing? |
 | • (__) is or may be difficult, unless what? |
 | • Monte Carlo simulation of (__) |
