@@ -86,6 +86,7 @@ ________________________________________________________________________________
 | • Schematic representation of (__) |
 | • Linear model of (__) |
 | • Non-linear model of (__) |
+| • Fractal mechanics of (__) |
 | • (__) is related to? |
 | • Floor plan of (__) |
 | • Drawbacks of (__) |
@@ -130,7 +131,6 @@ ________________________________________________________________________________
 | • Where does (__) borrow terms from if any? |
 | • Which topic borrows terms from (__) |
 | • Thought processes in (__) |
-| • Fractal mechanics of (__) |
 | • On the topic of (__), how much is too much? |
 | • What is the memory, energy, or time bandwidth of (__)? |
 | • Passive vs. active designs of (__) |
