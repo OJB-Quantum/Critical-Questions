@@ -135,3 +135,5 @@ ________________________________________________________________________________
 | • What is the memory, energy, or time bandwidth of (__)? |
 | • Passive vs. active designs of (__) |
 | • Passive vs. active implementations of (__) |
+| • Distribution of (__) |
+| • Variations of (__) |
