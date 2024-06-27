@@ -7,6 +7,16 @@ A table of terms that can generally be asked face-to-face or entered into a brow
 (I developed this table from a list compiled over a number of years, developing a way to help identify loopholes in physics and learning experiences).
 
 Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
+______________________
+## Things to Consider:
+• Determine if the info being sought or offered is abstract or concrete. (Abstract: multiple meanings or intangible; concrete: more or less a specific meaning or tangible).
+• Determine the topic subjectivity.
+• If the initial question does not completely make sense, ask for more information.
+• When it comes to an idea, you must consider whether the information is physically significant or not and to make that distinction. If something is only mathematically important, then it may only be relevant to navigating to the right ideas.
+• Whenever you have a "finite set", you can always find the "maximum of that set".
+• In a sense, time is like a continous multilayer of translucent or transparent filters, which old ideas are able to pass through. As we move further along, old ideas can overlap with new ones and form new prospects or designs.
+• Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
+
 _________________________________________________________________________________________________________________________________________________________________
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
