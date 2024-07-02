@@ -18,7 +18,8 @@ ______________________
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This may make the exchange easier.
 - Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
-[More information on these considerations can be viewed on the repository referenced here](https://github.com/OJB-Quantum/Linguistics-of-Science)
+
+### [More information on these considerations can be viewed on the repository referenced here](https://github.com/OJB-Quantum/Linguistics-of-Science)
 _________________________________________________________________________________________________________________________________________________________________
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
