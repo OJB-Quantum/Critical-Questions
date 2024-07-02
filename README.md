@@ -9,10 +9,10 @@ A table of terms that can generally be asked face-to-face or entered into a brow
 Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 ______________________
 ## Things to Consider:
+- When it comes to an idea, you must consider whether the information is physically significant or not and to make that distinction. If something is only mathematically important, then it may only be relevant to navigating to the right ideas.
 - Determine if the info being sought or offered is abstract or concrete. (Abstract: multiple meanings or intangible; concrete: more or less a specific meaning or tangible).
 - Determine the topic subjectivity.
 - If the initial question does not completely make sense, ask for more information.
-- When it comes to an idea, you must consider whether the information is physically significant or not and to make that distinction. If something is only mathematically important, then it may only be relevant to navigating to the right ideas.
 - Whenever you have a "finite set", you can always find the "maximum of that set".
 - In a sense, time is like a continous multilayer of translucent or transparent filters, which old ideas are able to pass through. As we move further along, old ideas can overlap with new ones and form new prospects or designs.
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
