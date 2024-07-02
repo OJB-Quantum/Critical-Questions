@@ -17,6 +17,7 @@ ______________________
 - In a sense, time is like a continous multilayer of translucent or transparent filters, which old ideas are able to pass through. As we move further along, old ideas can overlap with new ones and form new prospects or designs.
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This may make the exchange easier.
+- Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Ex: excitatory stimulation with high KCl delivery. Another ex: inhibitory stimulation with TTX delivery.
 
 _________________________________________________________________________________________________________________________________________________________________
 http://www.acgov.org/searchhelp.htm is a nice starting point, but not the end. The table below can be viewed as supplementary to this.
