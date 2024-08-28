@@ -128,6 +128,7 @@ ________________________________________________________________________________
 | • Categories of (__) |
 | • Review on (__) materials |
 | • Structural linguistics of (__) |
+| • Descriptive linguistics of (__) |
 | • Language breakdown of (__) |
 | • What are the constraints for (__)? |
 | • What does (__) sound like when attentuated to the range of human hearing? |
