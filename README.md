@@ -109,6 +109,7 @@ ________________________________________________________________________________
 | • Trajectory of (__) |
 | • Motivation for (__) |
 | • Open-source alternatives for (__) |
+| • Field guide to (__) |
 | • Visual guide to (__) |
 | • Audio guide to (__) |
 | • Interactive guide to (__) |
@@ -153,4 +154,3 @@ ________________________________________________________________________________
 | • Distribution of (__) |
 | • Variations of (__) |
 | • (__) 3D CAD file |
-| • Field guide to (__) |
