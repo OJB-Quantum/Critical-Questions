@@ -50,6 +50,7 @@ ________________________________________________________________________________
 | • Compact versions of (__) |
 | • First principles approach to (__) |
 | • Loopholes in (__) |
+| • (__) teardown |
 | • Applications of (__) |
 | • Ethics of (__) |
 | • Ideal vs. realistic behavior of (__) |
