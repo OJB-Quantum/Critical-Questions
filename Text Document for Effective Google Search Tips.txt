@@ -42,6 +42,7 @@ ________________________________________________________________________________
 | • Importance of (__) |
 | • Ideal behavior of (__) |
 | • A primer on (__)  |
+| • Publicly available dissertations on the following: (__) |
 | • Primary components of (__) |
 | • Primary ingredients of (__) |
 | • Subsystems of (__) |
