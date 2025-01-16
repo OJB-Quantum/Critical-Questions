@@ -8,6 +8,7 @@ A table of terms that can generally be asked face-to-face, entered into a browse
 
 Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
+Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.com/OJB-Quantum/Critical-Questions)
 ______________________
 
 ## Things to Consider:
