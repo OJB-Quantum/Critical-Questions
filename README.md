@@ -22,7 +22,7 @@ ______________________
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This consideration may make the exchange easier.
 - Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation.
 
-### More information on these considerations can be viewed on the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
+### For more information, see the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
 
 _________________________________________________________________________________________________________________________________________________________________
 
