@@ -7,7 +7,9 @@ A table of terms that can generally be asked face-to-face, entered into a browse
 (I developed this table from a list compiled over a number of years, developing a way to help identify loopholes in physics and learning experiences).
 
 Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
+
 ______________________
+
 ## Things to Consider:
 - Determine if the information being sought or offered is abstract or concrete and to what extent or level of. (Abstract: multiple meanings or intangible; concrete: more or less a specific meaning or tangible).
 - Determine the topic level of subjectivity.
@@ -20,12 +22,16 @@ ______________________
 - Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation.
 
 ### [More information on these considerations can be viewed on the repository referenced here](https://github.com/OJB-Quantum/Linguistics-of-Science)
+
 _________________________________________________________________________________________________________________________________________________________________
+
 The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
+
 _________________________________________________________________________________________________________________________________________________________________
 
 Note: be sure to remove parenthesis when filling in the blanks.
+
 _________________________________________________________________________________________________________________________________________________________________
 
 
@@ -39,6 +45,7 @@ ________________________________________________________________________________
 | cache:{followed by target URL} ...[works only for Chrome]. |
 
 _________________________________________________________________________________________________________________________________________________________________
+
 | Table of Contexts |
 |-----------------------|
 | • Importance of (__) |
@@ -156,3 +163,4 @@ ________________________________________________________________________________
 | • Distribution of (__) |
 | • Variations of (__) |
 | • (__) 3D CAD file |
+| • 2 unique examples of relevant applications for (__) |
