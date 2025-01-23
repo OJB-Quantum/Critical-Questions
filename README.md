@@ -2,13 +2,14 @@
 
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Effective-Google-Search-Tips/main)
 
-A table of terms that can generally be asked face-to-face, entered into a browser search bar, or prompted as text into a large language model such as GPT-4 to formulate useful results. This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic of one's interest.
+A table of terms that can generally be asked face-to-face, entered into a browser search bar, or used to enhance one's prompt engineering scripts to formulate useful results. This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic of one's interest.
 
 (I developed this table from a list compiled over a number of years, developing a way to help identify loopholes in physics and learning experiences).
 
 Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
 Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.com/OJB-Quantum/Critical-Questions)
+
 ______________________
 
 ## Things to Consider:
