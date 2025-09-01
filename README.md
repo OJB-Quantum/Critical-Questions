@@ -166,3 +166,5 @@ ________________________________________________________________________________
 | • Variations of (__) |
 | • (__) 3D CAD file |
 | • 2 unique examples of relevant applications for (__) |
+| • True (__) |
+| • Direct (__) |
