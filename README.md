@@ -58,7 +58,8 @@ ________________________________________________________________________________
 | • Primary ingredients of (__) |
 | • Subsystems of (__) |
 | • Compact versions of (__) |
-| • First principles approach to (__) |
+| • First-principles approach to (__) |
+| • First-principles analysis of (__) |
 | • Loopholes in (__) |
 | • (__) teardown |
 | • Applications of (__) |
