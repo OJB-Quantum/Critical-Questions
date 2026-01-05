@@ -10,7 +10,7 @@ Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
 
 Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.com/OJB-Quantum/Critical-Questions)
 
-______________________
+---
 
 ## Things to Consider:
 - Determine if the information being sought or offered is abstract or concrete and to what extent or level of. (Abstract: multiple meanings or intangible; concrete: more or less a specific meaning or tangible).
@@ -25,20 +25,20 @@ ______________________
 
 ### For more information, see the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 Note: be sure to remove parenthesis when filling in the blanks.
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 
 | Key |
-|-----------------------|
+|-|
 | (__) : Blank term, enter desired keyword. |
 | (-) : Subtracts a word from search to narrow down a search. |
 | (-)"(__)" : Subtracts an exact phrase from search. |
@@ -46,10 +46,10 @@ ________________________________________________________________________________
 | OR : Allows simultaneous search of multiple terms. |
 | cache:{followed by target URL} ...[works only for Chrome]. |
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 | Table of Contexts |
-|-----------------------|
+|-|
 | • Importance of (__) |
 | • Ideal behavior of (__) |
 | • A primer on (__)  |
