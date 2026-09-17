@@ -2,15 +2,15 @@
 
 [![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OJB-Quantum/Effective-Google-Search-Tips/main)
 
-A table of terms that can generally be asked face-to-face, entered into a browser search bar, or used to enhance one's prompt engineering scripts to formulate useful results. This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic of one's interest.
+A table of terms that can generally be asked face-to-face, entered into a browser search bar, or even used to enhance one's prompt engineering scripts to formulate useful results. This can be used to inspire a way to ask critical questions as well, towards the goal of comprehensive understanding and idea/ context generation for enhanced learning/ research. By finding better answers to more of each question or query from the table below, more context can be gained about a topic of one's interest.
 
 (I developed this table from a list compiled over a number of years, developing a way to help identify loopholes in physics and learning experiences).
 
-Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
+Written by Onri Jay Benally, an Indigenous American quantum hardware engineer from the Navajo tribe.
 
 Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.com/OJB-Quantum/Critical-Questions)
 
-______________________
+---
 
 ## Things to Consider:
 - Determine if the information being sought or offered is abstract or concrete and to what extent or level of. (Abstract: multiple meanings or intangible; concrete: more or less a specific meaning or tangible).
@@ -21,24 +21,24 @@ ______________________
 - When it comes to an idea, you must consider whether the information is physically significant or not and to make that distinction. If something is only mathematically important, then it may only be relevant to navigating to the right ideas.
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This consideration may make the exchange easier.
-- Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation.
+- Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation vs. numerical exact.
 
 ### For more information, see the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 The table below can be viewed as supplementary to this.
 Additionally, a careful sequence of searches based on the list can be performed using ethical web scraping libraries if needed, examples provided in here.
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 Note: be sure to remove parenthesis when filling in the blanks.
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 
 | Key |
-|-----------------------|
+|-|
 | (__) : Blank term, enter desired keyword. |
 | (-) : Subtracts a word from search to narrow down a search. |
 | (-)"(__)" : Subtracts an exact phrase from search. |
@@ -46,10 +46,10 @@ ________________________________________________________________________________
 | OR : Allows simultaneous search of multiple terms. |
 | cache:{followed by target URL} ...[works only for Chrome]. |
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 | Table of Contexts |
-|-----------------------|
+|-|
 | • Importance of (__) |
 | • Ideal behavior of (__) |
 | • A primer on (__)  |
