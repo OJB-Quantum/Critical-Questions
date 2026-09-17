@@ -6,7 +6,7 @@ A table of terms that can generally be asked face-to-face, entered into a browse
 
 (I developed this table from a list compiled over a number of years, developing a way to help identify loopholes in physics and learning experiences).
 
-Written by Onri Jay Benally, an Indigenous American quantum hardware engineer.
+Written by Onri Jay Benally, an Indigenous American quantum hardware engineer from the Navajo tribe.
 
 Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.com/OJB-Quantum/Critical-Questions)
 
@@ -21,7 +21,7 @@ Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.
 - When it comes to an idea, you must consider whether the information is physically significant or not and to make that distinction. If something is only mathematically important, then it may only be relevant to navigating to the right ideas.
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This consideration may make the exchange easier.
-- Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation.
+- Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation vs. numerical exact.
 
 ### For more information, see the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
 
