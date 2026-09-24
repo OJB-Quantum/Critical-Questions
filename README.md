@@ -22,6 +22,7 @@ Primary URL for the repository: [OJB-Quantum/Critical-Questions](https://github.
 - Get comfortable with automating mundane tasks, but prepared to do some temporarily manual work.
 - When you are simply curious about something and you happen to meet a legitimate expert, always clarify up front that you are seeking to satisfy a curiosity. The reality is that people, especially in the scientific community, tend to assume that you are trying to sell them something or convince them of something, when approached. This consideration may make the exchange easier.
 - Attribution of descriptors or adjectives as pre-terms before the actual use of a word helps with clarity. Example 1: excitatory stimulation with high KCl delivery. Example 2: inhibitory stimulation with TTX delivery. Example 3: coupling capacitor. Example 4: spin-dependent electrical resistance. Example 4: analytical precision vs. numerical approximation vs. numerical exact.
+- When it comes to searching for something, it worth seeking out the connotations. 
 
 ### For more information, see the repository called "Linguistics of Science". [Click here.](https://github.com/OJB-Quantum/Linguistics-of-Science)
 
